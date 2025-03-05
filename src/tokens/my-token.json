@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "41ykEXgqFBtMKprHCvWppha8tbit1EHU3HtUqHi97HQq",
+  "symbol": "SOT",
+  "name": "SOLMIL",
+  "decimals": 6,
+  "logoURI": "https://mwebtxvgmqqjbzsxgiam.supabase.co/storage/v1/object/public/token_images//1741120023068_azix142bvl9.png",
+  "tags": ["comunity-token"],
+  "extensions": {
+    "website": "https://solmiltools.com",
+    "twitter": "https://x.com/SolMiltools",
+    "telegram": "t.me/solmiltoolstokens"
+  }
+}
+
